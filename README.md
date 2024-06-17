@@ -67,7 +67,7 @@ Awarded as Prime Player (05/2019)
 </a>
 </div>
 
-![snake gif](https://github.com/trangntt-016/trangntt-016/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/sankhlepawan/sankhlepawan/blob/output/github-contribution-grid-snake.svg)
 
 
 ---
