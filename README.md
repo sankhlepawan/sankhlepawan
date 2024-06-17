@@ -4,7 +4,7 @@
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
-[WhatsApp](https://api.whatsapp.com/send?phone=917879725920)
+[WhatsApp](https://api.whatsapp.com/send?phone=917879725920)<br/>
 [LinkedIn](https://www.linkedin.com/in/psankhle/)
 
 <p align=center>
@@ -47,7 +47,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-### Deployed on
+### Cloud
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
@@ -61,12 +61,15 @@
 
 ---
 
+[![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sankhlepawan)](https://github.com/sankhlepawan/github-readme-stats)
+
 <div style="display:flex">
 <a href="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=sankhlepawan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
 <img align="center" alt="Pawan's Github Stats" src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=sankhlepawan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 <a href="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=sankhlepawan&layout=compact&theme=radical">
   <img align="center" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=sankhlepawan&layout=compact&theme=radical" />
 </a>
+  
 </div>
 
 
