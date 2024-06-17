@@ -5,6 +5,8 @@
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
 [WhatsApp](https://api.whatsapp.com/send?phone=917879725920)
+[LinkedIn](https://www.linkedin.com/in/psankhle/)
+
 <p align=center>
 <em>Don't hesitate to get in touch!</em>
 </p>
