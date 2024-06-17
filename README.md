@@ -61,13 +61,10 @@
 
 ---
 
-[![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sankhlepawan)](https://github.com/sankhlepawan/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sankhlepawan&hide=tqsl)](https://github.com/sankhlepawan/github-readme-stats)
-
 <div style="display:flex">
 <a href="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=sankhlepawan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
 <img align="center" alt="Pawan's Github Stats" src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=sankhlepawan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
-<a href="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=sankhlepawan&layout=compact&theme=radical">
+<a href="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=sankhlepawan&layout=compact&theme=radical&hide=tsql">
   <img align="center" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=sankhlepawan&layout=compact&theme=radical" />
 </a>
   
