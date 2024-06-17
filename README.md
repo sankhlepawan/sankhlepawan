@@ -11,8 +11,8 @@
 
 ---
 ## 🥅 Achievement
-IT-APPrasie for High Impact Culture Behaviour (09/2023)
-Awarded as Prime Player (05/2019)
+<p>IT-APPrasie for High Impact Culture Behaviour (09/2023) </p>
+<p>Awarded as Prime Player (05/2019)</p>
 
 ---
 ## 🛠️ Skills
@@ -60,14 +60,12 @@ Awarded as Prime Player (05/2019)
 ---
 
 <div style="display:flex">
-<a href="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=trangntt-016&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
-<img align="center" alt="Tracy's Github Stats" src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=trangntt-016&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
-<a href="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=trangntt-016&layout=compact&theme=radical">
-  <img align="center" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=trangntt-016&layout=compact&theme=radical" />
+<a href="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=sankhlepawan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
+<img align="center" alt="Pawan's Github Stats" src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=sankhlepawan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+<a href="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=sankhlepawan&layout=compact&theme=radical">
+  <img align="center" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=sankhlepawan&layout=compact&theme=radical" />
 </a>
 </div>
-
-![snake gif](https://github.com/sankhlepawan/sankhlepawan/blob/output/github-contribution-grid-snake.svg)
 
 
 ---
